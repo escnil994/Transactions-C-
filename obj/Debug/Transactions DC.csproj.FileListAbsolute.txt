@@ -1,0 +1,10 @@
+C:\Users\Escni\Desktop\C#\Transactions DC\bin\Debug\Transactions DC.exe.config
+C:\Users\Escni\Desktop\C#\Transactions DC\bin\Debug\Transactions DC.exe
+C:\Users\Escni\Desktop\C#\Transactions DC\bin\Debug\Transactions DC.pdb
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions DC.csproj.AssemblyReference.cache
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions_DC.transactions.resources
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions_DC.Properties.Resources.resources
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions DC.csproj.GenerateResource.cache
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions DC.csproj.CoreCompileInputs.cache
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions DC.exe
+C:\Users\Escni\Desktop\C#\Transactions DC\obj\Debug\Transactions DC.pdb
